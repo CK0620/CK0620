@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @CK0620
+- 👀 I’m interested in bioinformatics platforms.
+- 🌱 I’m currently learning real-time system on distribution environment.
